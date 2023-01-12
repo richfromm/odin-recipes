@@ -12,5 +12,4 @@ this. Actual new Javascript knowledge coming soon...
 
 ## What
 
-I'll include a real banana bread recipe. The rest will probably just
-be placeholders.
+I included 2 real recipes, and 1 joke.
