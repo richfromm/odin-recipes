@@ -1,6 +1,7 @@
 # odin-recipes
 
-Assignment in foundations course for The Odin Project
+[Assignment](https://www.theodinproject.com/lessons/foundations-recipes)
+in foundations course for The Odin Project
 
 ## Why
 
