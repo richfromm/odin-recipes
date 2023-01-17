@@ -1,0 +1,16 @@
+* {
+    font-family: Arial, sans-serif;
+    background-color: lavender;
+}
+
+h1, h2 {
+    font-family: Georgia, serif;
+}
+
+h1 {
+    color: indigo;
+}
+
+h2 {
+    color: darkviolet;
+}
